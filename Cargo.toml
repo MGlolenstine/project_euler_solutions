@@ -6,6 +6,8 @@ version = "0.1.0"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rayon = "1.5.1"
+uint = "0.9.3"
 
 [[bin]]
 name = "ex1"
@@ -46,3 +48,43 @@ path = "src/ex9.rs"
 [[bin]]
 name = "ex10"
 path = "src/ex10.rs"
+
+[[bin]]
+name = "ex11"
+path = "src/ex11.rs"
+
+[[bin]]
+name = "ex12"
+path = "src/ex12.rs"
+
+[[bin]]
+name = "ex13"
+path = "src/ex13.rs"
+
+[[bin]]
+name = "ex14"
+path = "src/ex14.rs"
+
+[[bin]]
+name = "ex15"
+path = "src/ex15.rs"
+
+[[bin]]
+name = "ex16"
+path = "src/ex16.rs"
+
+[[bin]]
+name = "ex17"
+path = "src/ex17.rs"
+
+[[bin]]
+name = "ex18"
+path = "src/ex18.rs"
+
+[[bin]]
+name = "ex19"
+path = "src/ex19.rs"
+
+[[bin]]
+name = "ex20"
+path = "src/ex20.rs"

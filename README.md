@@ -9,3 +9,15 @@ I'll try adding solutions daily.
 ```
 cargo run --bin ex<challenge number>
 ```
+
+## TODO
+
+### To be completed
+
+- [ ] 15
+- [ ] 18
+
+### To be fixed (BigInts feel like cheating)
+
+- [ ] 16
+- [ ] 20
